@@ -1,4 +1,5 @@
-import { styled } from "styled-components"
+import { styled } from "styled-components";
+import PropTypes from 'prop-types';
 
 const StyledProjectContainer = styled.div`
   & {
@@ -39,6 +40,13 @@ const ProjectCard = (props) => {
       </a>
     </>
   )
+}
+
+ProjectCard.propTypes = {
+  text: PropTypes.text,
+  url: PropTypes.url,
+  tagline: PropTypes.text,
+  imageUrl: PropTypes.imageUrl
 }
 
 export default ProjectCard
