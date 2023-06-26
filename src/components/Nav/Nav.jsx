@@ -11,9 +11,14 @@ function Nav() {
     <>
       <TopNav width='96vw' margin="0 2vw " id='top-nav'>
 
-        <Link to={'/'}>
-          <h1>mae may</h1>
-        </Link>
+        <ColumnContainer>
+          <Link to={'/'}>
+            <h1>mae may</h1>
+          </Link>
+            <div id="tagline">
+              <h2 id="tagline">software engineer</h2>
+            </div>
+        </ColumnContainer>
         <SpaceLink>
           <Link to={'/projects'}>projects</Link>
         </SpaceLink>

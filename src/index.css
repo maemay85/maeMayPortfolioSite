@@ -105,6 +105,11 @@ button:focus-visible {
   border-radius: 1rem;
 }
 
+#tagline h2 {
+  margin-top: -.75rem;
+  font-size: large;
+}
+
 
 @media (prefers-color-scheme: light) {
   :root {
