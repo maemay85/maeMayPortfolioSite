@@ -21,7 +21,7 @@ const EmailContactForm = () => {
   }
 
   return (
-    <>
+    <div id="email-form">
       <form ref={form} onSubmit={sendEmail}>
         <label>Send me an email, please and thank you: </label>
         <input type="text" placeholder="Name" name="name" />
@@ -36,7 +36,7 @@ const EmailContactForm = () => {
       <SpaceLink>
         <Link to={'/contact'}>back to contact</Link>
       </SpaceLink>
-    </>
+    </div>
   )
 
 }

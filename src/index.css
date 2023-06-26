@@ -107,7 +107,11 @@ button:focus-visible {
 
 #tagline h2 {
   margin-top: -.75rem;
-  font-size: large;
+  font-size: 1.25rem;
+}
+
+#email-form {
+  margin-top: 2rem;
 }
 
 
