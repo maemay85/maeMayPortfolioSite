@@ -45,7 +45,7 @@ const PlanetOrbit = styled.div`
   width: ${(props) => `${props.orbit}rem`};
   height: ${(props) => `${props.orbit}rem`};
   animation: ${rotateAnimation} linear infinite;
-  animation-delay: -15s;
+  animation-delay: -60s;
   animation-duration: ${(props)=> `${props.orbit}s`};
   z-index: 0;
 `
