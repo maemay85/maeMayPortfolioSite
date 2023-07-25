@@ -25,6 +25,10 @@ a:hover {
   color: #fcf8d6;
 }
 
+a#about-content {
+  text-decoration: underline;
+}
+
 body {
   position: relative;
   margin: 0;
