@@ -16,6 +16,10 @@
 
 }
 
+svg {
+  background-color: #f9f9f9;
+}
+
 a {
   font-weight: 500;
   color: rgba(255, 255, 255, 0.87);
