@@ -35,12 +35,6 @@ function Nav() {
           <SpaceLink>
             <a href ="https://github.com/maemay85" target='_blank' rel='noreferrer'>github</a>
           </SpaceLink>
-          <SpaceLink>
-            <a href="https://maemaywoodworking.com" target='_blank' rel='noreferrer'>woodworking</a>
-          </SpaceLink>
-          <SpaceLink>
-            <a href="https://maemay.art" target='_blank' rel='noreferrer'>performance</a>
-          </SpaceLink>
         </ColumnContainer>
       </BottomNav>
     </>
