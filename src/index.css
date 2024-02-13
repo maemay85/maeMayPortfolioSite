@@ -113,6 +113,11 @@ button:focus-visible {
   border-radius: 1rem;
 }
 
+#about-content img {
+  border-radius: 50%;
+  width: 20vw;
+}
+
 #tagline h2 {
   margin-top: -.75rem;
   font-size: 1.25rem;

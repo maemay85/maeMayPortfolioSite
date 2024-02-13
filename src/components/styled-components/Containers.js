@@ -2,7 +2,8 @@ import styled from "styled-components";
 
 export const RowContainer = styled.div`
   display: flex;
-  align-items: flex-start;
+  text-align: ${(props) => (props.textAlign ? props.textAlign : "left")};
+  align-items: ${(props) => (props.alignItems ? props.alignItems : "flex-start")};
   justify-content: space-between;
   position: relative;
   flex-direction: row;
