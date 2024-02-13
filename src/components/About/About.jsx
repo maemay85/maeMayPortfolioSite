@@ -19,7 +19,10 @@ function About() {
             <h1>{`Mae May (she/her)`}</h1>
             <p>{`Hi I'm Mae, and I love to build things!`}</p>
           </ColumnContainer>
-          <img src='src/assets/profilepic.jpeg' alt="A profile picture of Mae wearing some nice jewelry and smiling in warm light"/>
+          <img
+            src='https://github.com/maemay85/maeMayPortfolioSite/blob/main/src/assets/profilepic.jpeg?raw=true'
+            alt="A profile picture of Mae wearing some nice jewelry and smiling in warm light"
+          />
         </RowContainer>
 
             <p>{`I am a software engineer and web developer who writes clean, efficient code using React, JavaScript, postgreSQL, and Express. I love to collaborate with designers and product developers, so if you're looking to collaborate - reach out!`}</p>
