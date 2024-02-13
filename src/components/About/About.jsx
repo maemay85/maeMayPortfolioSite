@@ -29,9 +29,7 @@ function About() {
 
             <br/><br/><br/><br/>
 
-            <p>{`Prior to coding, I ran a `}<a href="https://maemaywoodworking.com">woodworking business</a> {` and learned all kinds of things about working with clients, sketching out their ideas, creating a roadmap, and communicating the timeline with them, and working with a variety of components to bring the project into physical reality. It was actually this that prepared me for fullstack development - only now I'm working with code instead of, you know, wood.`}</p>
-
-            <p>And of course, at heart, I am still and always will be <a href="https://maemay.art">an artist</a> - and have extensive experience in music and dance performance and composition, and textile design and fabrication.  Again, I love to build things! </p>
+            <p>{`In addition to coding, I work as an AV Technician at the `}<a href="https://judson.org" target='blank'>Judson Memorial Church</a>{`, and previously ran a `}<a href="https://maemaywoodworking.com" target='blank'>woodworking business</a> {` and learned all kinds of things about working with clients, sketching out their ideas, creating a roadmap, and communicating the timeline with them, and working with a variety of components to bring the project into physical reality.`}</p>
 
         </ColumnContainer>
     </>

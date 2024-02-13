@@ -15,14 +15,14 @@ const Projects = () => {
       title: 'augmentEd',
       tagline: 'A peer-to-peer music teaching web application. Built in collaboration with Shoshana Levit, Rachel Cora Wood, and Zoe Moersch. ',
       url: 'https://augmented.onrender.com/',
-      imageUrl: 'https://github.com/maemay85/maeMayPortfolioSite/blob/main/src/assets/augmented%20thumbnail.png?raw=true'
+      imageUrl: 'https://github.com/maemay85/maeMayPortfolioSite/blob/main/src/assets/thumbnail-augmentEd.png?raw=true'
     },
 
     {
       title: 'W.E.L.P. (We Effing Love Planets)',
       tagline: 'A static educational web application about our solar system - built in collaboration with Madeleine Lloyd-Davies, Rachel Eckert, and Lindsay Powell',
       url: "https://welp-y6ke.onrender.com/",
-      imageUrl: 'https://github.com/maemay85/maeMayPortfolioSite/blob/main/src/assets/welp%20thumbnail.png?raw=true'
+      imageUrl: 'https://github.com/maemay85/maeMayPortfolioSite/blob/main/src/assets/thumbnail-welp.png?raw=true'
     },
   ]
 
