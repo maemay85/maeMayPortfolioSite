@@ -12,6 +12,12 @@ const Projects = () => {
       imageUrl: 'https://github.com/maemay85/maeMayPortfolioSite/blob/main/src/assets/rfblaw%20thumbnail.png?raw=true'
     },
     {
+      title: 'My Silly Little Synthesizer',
+      tagline: 'Built in a day as proof of concept. Will be building out and developing to improve performance, and include additional effects and parameters. Fun!',
+      url: 'https://modular-synth-ten.vercel.app',
+      imageUrl: 'https://vercel.com/_next/image?url=%2Fapi%2Fscreenshot%3Fdark%3D0%26deploymentId%3Ddpl_7bnCDE7saxwepizK6caDva97xmcB%26teamId%3Dmaemay85%26withStatus%3D1&w=1920&q=75&dpl=dpl_4D1PGNa1ugheGUPL6dQ3kBReFGZT'
+    },
+    {
       title: 'augmentEd',
       tagline: 'A peer-to-peer music teaching web application. Built in collaboration with Shoshana Levit, Rachel Cora Wood, and Zoe Moersch. ',
       url: 'https://augmented.onrender.com/',
